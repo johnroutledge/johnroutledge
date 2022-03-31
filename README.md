@@ -10,3 +10,5 @@
 
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=johnroutledge&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnroutledge&theme=blue-green)
