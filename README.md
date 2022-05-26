@@ -6,8 +6,8 @@ My names's John and I'm a junior web developer with Leisure Leagues, Europe's la
 
 Here are a few facts about me:
 
-- 🔭 I have recently completed my diploma in Fullstack Software Development with the Code Institute 
-- 🌱 I have just started a junior web developer role
+- 🔭 I have a diploma in Fullstack Software Development with the Code Institute 
+- 🌱 I recently started a junior web developer role
 - 🤔 I’m looking for help with PHP and Laravel
 - 💬 Ask me about any of my repositories
 - 📫 You can contact me via [my LinkedIn page](https://www.linkedin.com/in/john-routledge/)
