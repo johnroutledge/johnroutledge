@@ -8,8 +8,8 @@ Here are a few facts about me:
 
 - 🔭 I am a junior web developer currently working in a Laravel/PHP framework 
 - 🌱 I have a Diploma in Fullstack Software Development (Distinction) from the Code Institute 
-- 🤔 I’m looking for help with PHP and Laravel
-- 💬 Ask me about any of my repositories
+- 🤔 At the moment, I'm focusing on developing my PHP & Laravel skills
+- 💬 Feel free to ask me about any of my repositories
 - 📫 You can contact me via [my LinkedIn page](https://www.linkedin.com/in/john-routledge/)
 - ⚡ Fun fact: I've appeared in a Hollywood movie with Denzel Washington!
 
