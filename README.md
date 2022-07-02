@@ -7,9 +7,9 @@ My name's John and I'm a junior web developer with Leisure Leagues, Europe's lar
 Here are a few facts about me:
 
 - 🔭 I am a junior web developer currently working in a Laravel/PHP framework 
-- 🌱 I have a Diploma in Fullstack Software Development (Distinction) from the Code Institute 
+- 🌱 I have a Diploma in Fullstack Software Development (Distinction) from the [Code Institute](https://www.codeinstitute.net)
 - 🤔 At the moment, I'm focusing on developing my PHP & Laravel skills
-- 💬 Feel free to ask me about any of my repositories
+- 💬 Feel free to ask me about any of my repositories <a href="http://www.linkedin.com/in/john-routledge/" target="_blank">external link</a>
 - 📫 You can contact me via [my LinkedIn page](https://www.linkedin.com/in/john-routledge/)
 - ⚡ Fun fact: I've appeared in a Hollywood movie with Denzel Washington!
 
