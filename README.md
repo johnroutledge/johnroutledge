@@ -4,7 +4,7 @@
 
 ### About Me
 
-My name's John and I'm a junior web developer with Leisure Leagues, Europe's largest provider of small-sided football leagues.
+My name's John and I'm a junior web developer with Appoly web and mobile app development services.
 
 Here are a few facts about me:
 
