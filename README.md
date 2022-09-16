@@ -24,12 +24,14 @@ Here are a few facts about me:
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="50px" height="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel logo" width="50px" height="50px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django logo" width="50px" height="50px"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django logo" width="50px" height="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="VueJS logo" width="50px" height="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" alt="jQuery logo" width="50px" height="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Bootstrap logo" height="50px" width="50px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab logo" width="50px" height="50px"/>
+  <img src="https://github.com/postmanlabs" alt="Postman logo" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" alt="Heroku logo" width="50px" height="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mySQL logo" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB logo" width="50px" height="50px"/>
