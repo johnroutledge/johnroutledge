@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/johnroutledge/johnroutledge/blob/main/jrbanner.png)
+![MasterHead](https://github.com/johnroutledge/johnroutledge/blob/main/banner.png)
 
 ## Hi there 👋
 
