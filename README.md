@@ -15,7 +15,7 @@ Here are a few facts about me:
 - 📫 You can contact me via [my LinkedIn page](https://www.linkedin.com/in/john-routledge/)
 - ⚡ Fun fact: I've appeared in a Hollywood movie with Denzel Washington!
 
-### Flavors in My Stack:
+### Flavours in My Stack:
 
 <div style="background-color: white !important;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="50px" height="50px"/>
