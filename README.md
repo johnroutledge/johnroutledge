@@ -4,7 +4,7 @@
 
 ### About Me
 
-My name's John and I'm a junior web developer with Appoly web and mobile app development services.
+My name's John and I'm a web developer with Appoly web and mobile app development services.
 
 Here are a few facts about me:
 
